@@ -1,0 +1,9 @@
+1. you control the ghost.
+2. move the ghost with the arrow keys.
+3. avoid the ghoul and bat.
+4. eat the donut to enter attack mode.
+5. attack mode allows you to eat the ghoul and bat
+6. attack mode is temporary.
+7. points increase for attacking enemies and surviving
+
+            hit the spacebar to start game!
